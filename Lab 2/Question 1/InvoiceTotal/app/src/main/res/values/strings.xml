@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InvoiceTotal</string>
+    <string name="SubTotal">Subtotal</string>
+    <string name="dPercent">Discount Percent</string>
+    <string name="dAmount">Discount Amount</string>
+    <string name="total">Total</string>
+    <string name="cTotal" />
+    <string name="cDAmount" />
+    <string name="cDPercent" />
+    <string name="subButt">Submit</string>
+</resources>

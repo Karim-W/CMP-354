@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:id="@+id/RefreshItem"
+      android:icon="@drawable/ic_refresh"
+      android:onClick="refResh"
+      android:title="@string/refreshItem" />
+  <item android:id="@+id/menu_about"
+      android:title="@string/menu_about"
+      android:icon="@drawable/ic_about"
+      app:showAsAction="never" />
+  <item android:title="@string/helpMenu" />
+  <item
+      android:onClick="launchBrowser"
+      android:title="@string/onlineItem" />
+  <item
+      android:onClick="ResultsHandler"
+      android:title="@string/resItem" />
+
+</menu>
