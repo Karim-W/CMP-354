@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="Header">Custom Tip Calculator</string>
+    <string name="fRadioOp">10%</string>
+    <string name="sRadioOp">15%</string>
+    <string name="tRadioOp">20%</string>
+    <string name="BillAmountLabel">Bill Amount</string>
+    <string name="TipPercentLabel">Tip Percent</string>
+    <string name="SplitLabel">Split</string>
+    <string name="TotalAmountLabel">Total Amount</string>
+    <string name="TotalPPLabel">Total Per Person</string>
+    <string name="fCheck">Member</string>
+    <string name="sCheck">Weekday</string>
+    <string name="tCheck">Special</string>
+    <string name="SubmitButtonLabel">Submit</string>
+    <string name="DiscountLabel">Discount</string>
+</resources>
